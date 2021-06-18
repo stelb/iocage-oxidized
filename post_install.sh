@@ -1,4 +1,4 @@
 #!/bin/sh
 
-sysrc oxidized_enabled="YES"
+sysrc oxidized_enable="YES"
 service oxidized start || exit 1
